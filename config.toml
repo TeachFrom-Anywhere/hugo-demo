@@ -73,24 +73,24 @@ linkedin = "company/teach-from-anywhere"
 [params.extra]
 copyright = "© 2020 Teach From Anywhere."
 #poweredby = true
-highlightjs = true
+#highlightjs = true
 #socialmarkup = true
-toc = true
+#toc = true
 #displayrssicon = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
+    name = "Blog"
     weight = 100
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
-    name = "about"
+    name = "About"
     identifier = "about"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
+    name = "Contact us"
     identifier = "coderag"
     weight = 300
     url = "/coderag/"
